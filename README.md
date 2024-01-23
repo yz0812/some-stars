@@ -9,8 +9,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Python](#python)
@@ -28,6 +28,34 @@
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [SCSS](#scss)
+
+## miscellaneous
+
+*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [YangguangZhou/Workflows](https://github.com/YangguangZhou/Workflows) - Jerry Zhou的一些Workflow
+
+*   [Nirzak/alist-koyeb-updated-to-v3](https://github.com/Nirzak/alist-koyeb-updated-to-v3) - Deploy alist to koyeb updated to v3
+
+*   [alist-org/alist-koyeb](https://github.com/alist-org/alist-koyeb) - Deploy alist to koyeb
+
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
+
+*   [joonspk-research/generative\_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
+
+*   [xlist-io/xlist](https://github.com/xlist-io/xlist) - An all-in-one Alist client. / 一款多功能 Alist 客户端。
+
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
+
+*   [YangguangZhou/note](https://github.com/YangguangZhou/note) -
+
+*   [wacko1805/Pixel-Wallpapers](https://github.com/wacko1805/Pixel-Wallpapers) -
+
+*   [YangguangZhou/card](https://github.com/YangguangZhou/card) -
+
+*   [YangguangZhou/Scratch](https://github.com/YangguangZhou/Scratch) - Jerry Zhou在上古时代制作的scratch程序
 
 ## JavaScript
 
@@ -58,32 +86,6 @@
 *   [YangguangZhou/jzblog-waline](https://github.com/YangguangZhou/jzblog-waline) - Waline for Jerry Zhou's blog
 
 *   [YangguangZhou/Luogu-User-Card](https://github.com/YangguangZhou/Luogu-User-Card) - 洛谷个人信息卡片
-
-## miscellaneous
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [YangguangZhou/Workflows](https://github.com/YangguangZhou/Workflows) - Jerry Zhou的一些Workflow
-
-*   [Nirzak/alist-koyeb-updated-to-v3](https://github.com/Nirzak/alist-koyeb-updated-to-v3) - Deploy alist to koyeb updated to v3
-
-*   [alist-org/alist-koyeb](https://github.com/alist-org/alist-koyeb) - Deploy alist to koyeb
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [joonspk-research/generative\_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-
-*   [xlist-io/xlist](https://github.com/xlist-io/xlist) - An all-in-one Alist client. / 一款多功能 Alist 客户端。
-
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
-
-*   [YangguangZhou/note](https://github.com/YangguangZhou/note) -
-
-*   [wacko1805/Pixel-Wallpapers](https://github.com/wacko1805/Pixel-Wallpapers) -
-
-*   [YangguangZhou/card](https://github.com/YangguangZhou/card) -
-
-*   [YangguangZhou/Scratch](https://github.com/YangguangZhou/Scratch) - Jerry Zhou在上古时代制作的scratch程序
 
 ## Vue
 
