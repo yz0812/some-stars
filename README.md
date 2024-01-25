@@ -15,7 +15,6 @@
 *   [Python](#python)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
-*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Java](#java)
 *   [Go](#go)
@@ -38,6 +37,8 @@
 *   [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application.
 
 *   [lifthrasiir/qr.js](https://github.com/lifthrasiir/qr.js) - qr.js: QR code generator in pure Javascript (2011)
+
+*   [cyanial/genshin-impact-picker](https://github.com/cyanial/genshin-impact-picker) -
 
 *   [YangguangZhou/Counter](https://github.com/YangguangZhou/Counter) - 计数器 API
 
@@ -168,10 +169,6 @@
 *   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-## Svelte
-
-*   [cyanial/genshin-impact-picker](https://github.com/cyanial/genshin-impact-picker) -
 
 ## PHP
 
