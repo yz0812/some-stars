@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -17,7 +18,6 @@
 *   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [Java](#java)
-*   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [C#](#c)
@@ -27,6 +27,12 @@
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [SCSS](#scss)
+
+## Go
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 
 ## JavaScript
 
@@ -185,10 +191,6 @@
 *   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
 *   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
-## Go
-
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 
 ## Kotlin
 
