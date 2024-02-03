@@ -10,9 +10,9 @@
 ## Table of Contents
 
 *   [Go](#go)
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [HTML](#html)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -30,9 +30,45 @@
 
 ## Go
 
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
+
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+
+## HTML
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
+
+*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
+
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+
+*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
+
+*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
+
+*   [YangguangZhou/Sitemap](https://github.com/YangguangZhou/Sitemap) - Sitemaps of my websites
+
+*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+
+*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
+
+*   [YangguangZhou/Game](https://github.com/YangguangZhou/Game) - 一个用HTML制作的解压小游戏
+
+*   [YangguangZhou/YangguangZhou](https://github.com/YangguangZhou/YangguangZhou) -
+
+*   [YangguangZhou/HTML-editor](https://github.com/YangguangZhou/HTML-editor) - HTML编辑器
 
 ## JavaScript
 
@@ -91,38 +127,6 @@
 *   [wacko1805/Pixel-Wallpapers](https://github.com/wacko1805/Pixel-Wallpapers) -
 
 *   [YangguangZhou/Scratch](https://github.com/YangguangZhou/Scratch) - Jerry Zhou在上古时代制作的scratch程序
-
-## HTML
-
-*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
-
-*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-
-*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
-
-*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
-
-*   [YangguangZhou/Sitemap](https://github.com/YangguangZhou/Sitemap) - Sitemaps of my websites
-
-*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
-
-*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
-
-*   [YangguangZhou/Game](https://github.com/YangguangZhou/Game) - 一个用HTML制作的解压小游戏
-
-*   [YangguangZhou/YangguangZhou](https://github.com/YangguangZhou/YangguangZhou) -
-
-*   [YangguangZhou/HTML-editor](https://github.com/YangguangZhou/HTML-editor) - HTML编辑器
 
 ## Python
 
@@ -214,7 +218,7 @@
 
 *   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## C\#
 
