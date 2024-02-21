@@ -9,17 +9,17 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
-*   [Vue](#vue)
+*   [Shell](#shell)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [Vue](#vue)
 *   [PHP](#php)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
-*   [Shell](#shell)
 *   [C#](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
@@ -28,9 +28,45 @@
 *   [CSS](#css)
 *   [SCSS](#scss)
 
+## Shell
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+
+*   [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
+
+*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
+
+*   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+## Python
+
+*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+
+*   [FakeOpenAI/FakeOpenAI](https://github.com/FakeOpenAI/FakeOpenAI) - 一个通过绕过 Cloudflare 防御代理实现微信扫码 / 公众号登录即可体验 ChatGPT 的服务
+
+*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
+
+*   [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
+
+*   [YangguangZhou/Python](https://github.com/YangguangZhou/Python) - Python小程序-提升效率
+
+*   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+
 ## TypeScript
 
 *   [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
 *   [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
@@ -55,40 +91,6 @@
 *   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-## Vue
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
-
-*   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
-
-*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
-
-*   [YangguangZhou/JZHome](https://github.com/YangguangZhou/JZHome) - Jerry Zhou的个人主页
-
-## Python
-
-*   [FakeOpenAI/FakeOpenAI](https://github.com/FakeOpenAI/FakeOpenAI) - 一个通过绕过 Cloudflare 防御代理实现微信扫码 / 公众号登录即可体验 ChatGPT 的服务
-
-*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
-
-*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
-
-*   [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
-
-*   [YangguangZhou/Python](https://github.com/YangguangZhou/Python) - Python小程序-提升效率
-
-*   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-
-*   [YangguangZhou/Calligraphy-master](https://github.com/YangguangZhou/Calligraphy-master) - Calligraphy-master 书法大师
 
 ## Go
 
@@ -164,8 +166,6 @@
 
 *   [YangguangZhou/jzblog-waline](https://github.com/YangguangZhou/jzblog-waline) - Waline for Jerry Zhou's blog
 
-*   [YangguangZhou/Luogu-User-Card](https://github.com/YangguangZhou/Luogu-User-Card) - 洛谷个人信息卡片
-
 ## miscellaneous
 
 *   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
@@ -187,6 +187,16 @@
 *   [wacko1805/Pixel-Wallpapers](https://github.com/wacko1805/Pixel-Wallpapers) -
 
 *   [YangguangZhou/Scratch](https://github.com/YangguangZhou/Scratch) - Jerry Zhou在上古时代制作的scratch程序
+
+## Vue
+
+*   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
+
+*   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
+
+*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
+
+*   [YangguangZhou/JZHome](https://github.com/YangguangZhou/JZHome) - Jerry Zhou的个人主页
 
 ## PHP
 
@@ -215,16 +225,6 @@
 *   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
 
 *   [wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app) - An app full of Constantly updating Google Pixel wallpapers
-
-## Shell
-
-*   [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
-
-*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
-
-*   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## C\#
 
