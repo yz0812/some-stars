@@ -9,10 +9,10 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [Go](#go)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -27,6 +27,16 @@
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [SCSS](#scss)
+
+## Go
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 
 ## TypeScript
 
@@ -96,14 +106,6 @@
 
 *   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 
-## Go
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
-
 ## HTML
 
 *   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
@@ -165,8 +167,6 @@
 *   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 *   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-
-*   [YangguangZhou/jzblog-waline](https://github.com/YangguangZhou/jzblog-waline) - Waline for Jerry Zhou's blog
 
 ## miscellaneous
 
