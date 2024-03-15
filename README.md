@@ -17,6 +17,7 @@
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
+*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
@@ -148,8 +149,6 @@
 
 *   [lifthrasiir/qr.js](https://github.com/lifthrasiir/qr.js) - qr.js: QR code generator in pure Javascript (2011)
 
-*   [cyanial/genshin-impact-picker](https://github.com/cyanial/genshin-impact-picker) -
-
 *   [YangguangZhou/Counter](https://github.com/YangguangZhou/Counter) - 计数器 API
 
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -195,6 +194,10 @@
 *   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
 
 *   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
+
+## Svelte
+
+*   [cyanial/genshin-impact-picker](https://github.com/cyanial/genshin-impact-picker) -
 
 ## PHP
 
