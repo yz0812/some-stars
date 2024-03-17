@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -19,7 +20,6 @@
 *   [Vue](#vue)
 *   [Svelte](#svelte)
 *   [PHP](#php)
-*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C#](#c)
@@ -29,13 +29,23 @@
 *   [CSS](#css)
 *   [SCSS](#scss)
 
+## Java
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+
+*   [A5245/WatchSDK](https://github.com/A5245/WatchSDK) -
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
 ## Python
 
 *   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
 
 *   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 
-*   [FakeOpenAI/FakeOpenAI](https://github.com/FakeOpenAI/FakeOpenAI) - 一个通过绕过 Cloudflare 防御代理实现微信扫码 / 公众号登录即可体验 ChatGPT 的服务
+*   [FakeOAI/deploy](https://github.com/FakeOAI/deploy) - 本地运行属于你的ChatGPT镜像服务
 
 *   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
 
@@ -131,7 +141,7 @@
 
 *   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
 
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
 
 *   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
 
@@ -205,14 +215,6 @@
 
 *   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
-## Java
-
-*   [A5245/WatchSDK](https://github.com/A5245/WatchSDK) -
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
 ## Kotlin
 
 *   [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
@@ -260,8 +262,6 @@
 ## CSS
 
 *   [YangguangZhou/Links](https://github.com/YangguangZhou/Links) - 友链合集
-
-*   [YangguangZhou/404](https://github.com/YangguangZhou/404) - Jerry Zhou的404页面
 
 ## SCSS
 
