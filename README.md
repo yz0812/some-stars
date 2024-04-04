@@ -31,7 +31,7 @@
 
 ## Python
 
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide unofficial Suno AI API, which can be used to generate music, lyrics, etc., without any deployment and setup.👇
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
