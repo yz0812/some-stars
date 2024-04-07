@@ -27,9 +27,10 @@
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
 *   [CSS](#css)
-*   [SCSS](#scss)
 
 ## JavaScript
+
+*   [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 
 *   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - 自动刷 Linux do 的文章以及自动点赞
 
@@ -41,7 +42,7 @@
 
 *   [lifthrasiir/qr.js](https://github.com/lifthrasiir/qr.js) - qr.js: QR code generator in pure Javascript (2011)
 
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [YangguangZhou/Counter](https://github.com/YangguangZhou/Counter) - 计数器 API
 
@@ -262,7 +263,3 @@
 ## CSS
 
 *   [YangguangZhou/Links](https://github.com/YangguangZhou/Links) - 友链合集
-
-## SCSS
-
-*   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
