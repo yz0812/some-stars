@@ -64,7 +64,7 @@
 
 ## Python
 
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide unofficial Suno AI API, which can be used to generate music, lyrics, etc., without any deployment and setup.👇
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We offer official APIs at 50% below the official price. Powered by Suno AI.
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
