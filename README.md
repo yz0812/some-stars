@@ -9,16 +9,16 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
-*   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
@@ -27,6 +27,76 @@
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
 *   [CSS](#css)
+
+## Python
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
+
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+
+*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+
+*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+
+*   [FakeOAI/deploy](https://github.com/FakeOAI/deploy) - 本地运行属于你的ChatGPT镜像服务
+
+*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
+
+## HTML
+
+*   [wozulong/openai-images-edits](https://github.com/wozulong/openai-images-edits) - 旨在打造一个使用 OpenAI 图片编辑API（或Chat2API）来让AI编辑图片的服务。
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
+
+*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
+
+*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
+
+*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [YangguangZhou/Sitemap](https://github.com/YangguangZhou/Sitemap) - Sitemaps of my websites
+
+*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
+
+*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
+
+## miscellaneous
+
+*   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
+
+*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+
+*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
+
+*   [Nirzak/alist-koyeb-updated-to-v3](https://github.com/Nirzak/alist-koyeb-updated-to-v3) - Deploy alist to koyeb updated to v3
+
+*   [alist-org/alist-koyeb](https://github.com/alist-org/alist-koyeb) - Deploy alist to koyeb
+
+*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
+
+*   [joonspk-research/generative\_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
+
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
 
 ## JavaScript
 
@@ -61,30 +131,6 @@
 *   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 *   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-
-## Python
-
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
-
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-
-*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-
-*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
-
-*   [FakeOAI/deploy](https://github.com/FakeOAI/deploy) - 本地运行属于你的ChatGPT镜像服务
-
-*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
-
-*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
-
-*   [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 
 ## TypeScript
 
@@ -166,50 +212,6 @@
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
-## HTML
-
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
-
-*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
-
-*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
-
-*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
-
-*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [YangguangZhou/Sitemap](https://github.com/YangguangZhou/Sitemap) - Sitemaps of my websites
-
-*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
-
-*   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
-
-## miscellaneous
-
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
-
-*   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-
-*   [Nirzak/alist-koyeb-updated-to-v3](https://github.com/Nirzak/alist-koyeb-updated-to-v3) - Deploy alist to koyeb updated to v3
-
-*   [alist-org/alist-koyeb](https://github.com/alist-org/alist-koyeb) - Deploy alist to koyeb
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
-
-*   [joonspk-research/generative\_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
-
-*   [wacko1805/Pixel-Wallpapers](https://github.com/wacko1805/Pixel-Wallpapers) -
-
 ## Vue
 
 *   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
@@ -229,8 +231,6 @@
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 *   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
-
-*   [wacko1805/Pixel-Wallpaper-app](https://github.com/wacko1805/Pixel-Wallpaper-app) - An app full of Constantly updating Google Pixel wallpapers
 
 ## Dart
 
