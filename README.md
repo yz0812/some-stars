@@ -19,11 +19,11 @@
 *   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C#](#c)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
 *   [CSS](#css)
@@ -32,13 +32,11 @@
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇提供Suno API，不需要任何部署与设置，接入即用。👇
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
 *   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-
-*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 
 *   [FakeOAI/FakeOAI](https://github.com/FakeOAI/FakeOAI) -
 
@@ -212,6 +210,12 @@
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
+## Jupyter Notebook
+
+*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+
+*   [Turing-Project/EssayTopicPredictV2](https://github.com/Turing-Project/EssayTopicPredictV2) - 高考作文题目预测模型 v1.0
+
 ## Vue
 
 *   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
@@ -243,10 +247,6 @@
 *   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-## Jupyter Notebook
-
-*   [Turing-Project/EssayTopicPredictV2](https://github.com/Turing-Project/EssayTopicPredictV2) - 高考作文题目预测模型 v1.0
 
 ## Dockerfile
 
