@@ -102,7 +102,7 @@
 
 ## JavaScript
 
-*   [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
+*   [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 
 *   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - 自动刷 Linux do 的文章以及自动点赞
 
