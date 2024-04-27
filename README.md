@@ -201,7 +201,7 @@
 
 *   [YangguangZhou/genshin-impact-picker](https://github.com/YangguangZhou/genshin-impact-picker) -
 
-*   [cyanial/genshin-impact-picker](https://github.com/cyanial/genshin-impact-picker) -
+*   [animation-picker/genshin-impact](https://github.com/animation-picker/genshin-impact) -
 
 ## PHP
 
