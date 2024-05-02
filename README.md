@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Stylus](#stylus)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
@@ -29,7 +30,13 @@
 *   [C++](#c-1)
 *   [CSS](#css)
 
+## Stylus
+
+*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+
 ## JavaScript
+
+*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 
 *   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
 
@@ -62,10 +69,6 @@
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 ## TypeScript
 
