@@ -9,8 +9,9 @@
 
 ## Table of Contents
 
-*   [Stylus](#stylus)
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
+*   [Stylus](#stylus)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
@@ -24,17 +25,22 @@
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Vue](#vue)
-*   [Dart](#dart)
 *   [C#](#c)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
 *   [CSS](#css)
 
-## Stylus
+## Dart
 
-*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
+*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
+
+*   [xlist-io/xlist](https://github.com/xlist-io/xlist) - An all-in-one Alist client. / 一款多功能 Alist 客户端。
+
+*   [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
 
 ## JavaScript
+
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - chatgpt web, midjourney, gpts,tts, whisper,suno-v3 一套ui全搞定；同时支持  Web / PWA / Linux / Win / MacOS 平台
 
 *   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 
@@ -42,7 +48,7 @@
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 
-*   [zhx47/jd\_scripts](https://github.com/zhx47/jd_scripts) -
+*   [zhx47/jd\_scripts](https://github.com/zhx47/jd_scripts) - 京东试用和部分版本算法
 
 *   [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 
@@ -68,7 +74,9 @@
 
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+## Stylus
+
+*   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 
 ## TypeScript
 
@@ -182,8 +190,6 @@
 
 *   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
 
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
 ## miscellaneous
 
 *   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - RawChat 使用文档
@@ -247,12 +253,6 @@
 *   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
 
 *   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
-
-## Dart
-
-*   [xlist-io/xlist](https://github.com/xlist-io/xlist) - An all-in-one Alist client. / 一款多功能 Alist 客户端。
-
-*   [davquar/halfdot](https://github.com/davquar/halfdot) - Minimalistic Umami client for Android
 
 ## C\#
 
