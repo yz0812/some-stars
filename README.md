@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
@@ -19,7 +20,6 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -28,6 +28,14 @@
 *   [C#](#c)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
+
+## Svelte
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+
+*   [YangguangZhou/genshin-impact-picker](https://github.com/YangguangZhou/genshin-impact-picker) -
+
+*   [animation-picker/genshin-impact](https://github.com/animation-picker/genshin-impact) -
 
 ## Python
 
@@ -189,8 +197,6 @@
 
 *   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
-*   [YangguangZhou/Sitemap](https://github.com/YangguangZhou/Sitemap) - Sitemaps of my websites
-
 ## miscellaneous
 
 *   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - RawChat 使用文档
@@ -208,12 +214,6 @@
 *   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
 
 *   [joonspk-research/generative\_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-
-## Svelte
-
-*   [YangguangZhou/genshin-impact-picker](https://github.com/YangguangZhou/genshin-impact-picker) -
-
-*   [animation-picker/genshin-impact](https://github.com/animation-picker/genshin-impact) -
 
 ## PHP
 
