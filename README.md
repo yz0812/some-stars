@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Go](#go)
 *   [Svelte](#svelte)
 *   [Python](#python)
@@ -19,7 +20,6 @@
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Java](#java)
-*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Shell](#shell)
@@ -27,6 +27,34 @@
 *   [Vue](#vue)
 *   [C#](#c)
 *   [Dockerfile](#dockerfile)
+
+## HTML
+
+*   [YangguangZhou/Color](https://github.com/YangguangZhou/Color) - 颜色转换器
+
+*   [YangguangZhou/FileDiff](https://github.com/YangguangZhou/FileDiff) - 在线文本比对器
+
+*   [YangguangZhou/OpenAI-TTS](https://github.com/YangguangZhou/OpenAI-TTS) - TTS sever based on OpenAI
+
+*   [wozulong/openai-images-edits](https://github.com/wozulong/openai-images-edits) - 旨在打造一个使用 OpenAI 图片编辑API（或Chat2API）来让AI编辑图片的服务。
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
+
+*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
+
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+
+*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
+
+*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 
 ## Go
 
@@ -184,30 +212,6 @@
 
 *   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-## HTML
-
-*   [YangguangZhou/OpenAI-TTS](https://github.com/YangguangZhou/OpenAI-TTS) - TTS sever based on OpenAI
-
-*   [wozulong/openai-images-edits](https://github.com/wozulong/openai-images-edits) - 旨在打造一个使用 OpenAI 图片编辑API（或Chat2API）来让AI编辑图片的服务。
-
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
-
-*   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
-
-*   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) -
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
-
-*   [YangguangZhou/Pay](https://github.com/YangguangZhou/Pay) - 万能收款码
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
 ## miscellaneous
 
 *   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - RawChat 使用文档
@@ -237,10 +241,6 @@
 *   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
 *   [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
-
-*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
-
-*   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
 
 ## Jupyter Notebook
 
