@@ -9,11 +9,11 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Svelte](#svelte)
-*   [Python](#python)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Stylus](#stylus)
@@ -28,7 +28,37 @@
 *   [C#](#c)
 *   [Dockerfile](#dockerfile)
 
+## Python
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - I provide the API of suno, no deployment is required, no subscription to suno is required. It 's convenient to use. 👇
+
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+
+*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+
+*   [FakeOAI/FakeOAI](https://github.com/FakeOAI/FakeOAI) -
+
+*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
 ## TypeScript
+
+*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
 *   [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 
@@ -114,32 +144,6 @@
 
 *   [animation-picker/genshin-impact](https://github.com/animation-picker/genshin-impact) -
 
-## Python
-
-*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
-
-*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - I provide the API of suno, no deployment is required, no subscription to suno is required. It 's convenient to use. 👇
-
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-
-*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-
-*   [FakeOAI/FakeOAI](https://github.com/FakeOAI/FakeOAI) -
-
-*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
-
-*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
 ## Dart
 
 *   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
@@ -180,8 +184,6 @@
 
 *   [syzoj/syzoj](https://github.com/syzoj/syzoj) - 一个用于算法竞赛的在线评测系统。An online judge system for algorithm competition.
 
-*   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-
 ## Stylus
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
@@ -195,8 +197,6 @@
 *   [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
 
 *   [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Power Menu Replacement for Android
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 ## Batchfile
 
