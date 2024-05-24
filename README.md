@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -26,7 +27,10 @@
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
-*   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## TypeScript
 
@@ -259,7 +263,3 @@
 ## C\#
 
 *   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
-
-## Dockerfile
-
-*   [YangguangZhou/alist-jz-render](https://github.com/YangguangZhou/alist-jz-render) -
