@@ -237,7 +237,7 @@
 
 ## miscellaneous
 
-*   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - RawChat 使用文档
+*   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - CNChat 使用文档
 
 *   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
 
