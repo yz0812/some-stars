@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -18,7 +19,6 @@
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [HTML](#html)
-*   [Dart](#dart)
 *   [Stylus](#stylus)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
@@ -26,6 +26,12 @@
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Dart
+
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
+*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 
 ## Vue
 
@@ -211,10 +217,6 @@
 
 *   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
 
-## Dart
-
-*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
-
 ## Stylus
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
@@ -232,8 +234,6 @@
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [A5245/WatchSDK](https://github.com/A5245/WatchSDK) -
 
 ## miscellaneous
 
