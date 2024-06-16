@@ -9,8 +9,9 @@
 
 ## Table of Contents
 
-*   [Dart](#dart)
 *   [Vue](#vue)
+*   [Kotlin](#kotlin)
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -20,20 +21,17 @@
 *   [Svelte](#svelte)
 *   [HTML](#html)
 *   [Stylus](#stylus)
-*   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 
-## Dart
-
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-
-*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
-
 ## Vue
+
+*   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
+
+*   [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - (极简)朋友圈
 
 *   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 
@@ -42,6 +40,18 @@
 *   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
 
 *   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
+
+## Kotlin
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+
+## Dart
+
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
+*   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 
 ## JavaScript
 
@@ -153,8 +163,6 @@
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-
 ## Go
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -215,15 +223,9 @@
 
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
-*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
-
 ## Stylus
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
-
-## Kotlin
-
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 
 ## Batchfile
 
@@ -248,8 +250,6 @@
 *   [Nirzak/alist-koyeb-updated-to-v3](https://github.com/Nirzak/alist-koyeb-updated-to-v3) - Deploy alist to koyeb updated to v3
 
 *   [alist-org/alist-koyeb](https://github.com/alist-org/alist-koyeb) - Deploy alist to koyeb
-
-*   [CHNJohnHK/Material-You-App-Repository](https://github.com/CHNJohnHK/Material-You-App-Repository) - A simple but intact and frequent-updated Material You App collection project creating with love and persistence.
 
 ## PHP
 
