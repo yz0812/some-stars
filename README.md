@@ -4,13 +4,15 @@
 
 ⭐ <a href="https://jerryz.com.cn/"  target="_blank">Jerry Zhou</a>的star列表，每周自动更新 ⭐
 
+</div>
+
 ## Table of Contents
 
+*   [Python](#python)
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -23,6 +25,36 @@
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Python
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3, Gemini and Groq using Python on Zeabur, fly.io and Replit.
+
+*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
+
+*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
+
+*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
+
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+
+*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+
+*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## Dart
 
@@ -83,36 +115,6 @@
 *   [YangguangZhou/Counter](https://github.com/YangguangZhou/Counter) - 计数器 API
 
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-## Python
-
-*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3, Gemini and Groq using Python on Zeabur, fly.io and Replit.
-
-*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
-
-*   [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
-
-*   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
-
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-
-*   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-
-*   [FakeOAI/FakeOAI](https://github.com/FakeOAI/FakeOAI) -
-
-*   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
-
-*   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## TypeScript
 
