@@ -1,6 +1,6 @@
 name = "yz0812"
 type = "javascript"
 
-account_id = "$CF_ACCOUNT_ID"
+account_id = "${CF_ACCOUNT_ID}"
 workers_dev = true
 compatibility_date = "2024-06-17"
