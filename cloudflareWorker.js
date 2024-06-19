@@ -54,7 +54,7 @@ function generateHTML(data) {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>XNIC github Star 导航</title>
+      <title>github Star 导航</title>
       <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
       <style>
         .container {
@@ -122,7 +122,7 @@ function generateHTML(data) {
     <body class="bg-gray-100">
       <div class="sticky-header flex justify-between items-center px-4 py-2 bg-white shadow-md">
         <h1 class="text-2xl font-bold">
-          <a href="/">XNIC github Star 导航</a>
+          <a href="/">github Star 导航</a>
         </h1>
         <input id="search" type="text" placeholder="Search repositories..." class="p-2 border rounded w-1/3 mx-auto">
       </div>
@@ -190,21 +190,15 @@ function generateHTML(data) {
             });
           }
 
-          function highlightText(text, query) {
-            const regex = new RegExp('(' + query + ')', 'gi');
-            return text.replace(regex, '<span class="highlight">$1</span>');
-          }
+     
 
           searchInput.addEventListener('input', function() {
             const query = this.value.trim();
-              console.log('User input query: '+query); // 日志输入的查询
             if (query) {
               const matchedRepos = searchRepositories(query);
-                  console.log('Matched repositories:'+ matchedRepos); // 日志匹配到的仓库
               const highlightedHtml = repoCardsHtml(matchedRepos).replace(new RegExp(query, 'gi'), function(match) {
                 return '<span class="highlight">' + match + '</span>';
               });
- console.log('Highlighted HTML: '+highlightedHtml); // 日志高亮显示的 HTML
               categoriesContainer.innerHTML = '<div class="mb-8"><h2 class="text-2xl font-bold mb-4">Search Results</h2><div class="flex flex-wrap justify-center">' + highlightedHtml + '</div></div>';
             } else {
               // 重新定义 categoriesHtml 以确保在事件监听器内可用
