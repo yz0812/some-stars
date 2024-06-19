@@ -124,7 +124,7 @@ function generateHTML(data) {
     <body class="bg-gray-100">
       <div class="sticky-header flex justify-between items-center px-4 py-2 bg-white shadow-md">
         <h1 class="text-2xl font-bold">
-          <a href="/">XNIC github Star 导航</a>
+          <a href="/">YZ0812 github Star 导航</a>
         </h1>
         <input id="search" type="text" placeholder="Search repositories..." class="p-2 border rounded w-1/3 mx-auto">
       </div>
@@ -162,9 +162,7 @@ function generateHTML(data) {
                     </div>
                     <p class="text-gray-700 text-base">\${truncatedDescription}</p>
                   </div>
-                  <div class="px-6 pt-4 pb-2">
-                    \${repo.topics.map(topic => \`<span class="topic inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#\${topic}</span>\`).join('')}
-                  </div>
+
                   <div class="px-6 pt-4 pb-2">
                     <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: \${repo.stargazers_count}</span>
                     <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Watchers: \${repo.watchers_count}</span>
