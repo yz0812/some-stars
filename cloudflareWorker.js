@@ -28,10 +28,7 @@ function generateHTML(data) {
           </div>
           <p class="text-gray-700 text-base">${truncatedDescription}</p>
         </div>
-        <div class="px-6 pt-4 pb-2">
-           ${repo.topics.slice(0, 2).map(topic => `<span class="topic inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#${topic}</span>`).join('')}
 
-        </div>
         <div class="px-6 pt-4 pb-2">
           <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: ${repo.stargazers_count}</span>
         </div>
@@ -161,9 +158,6 @@ function generateHTML(data) {
                     <a href="\${repo.html_url}" class="text-blue-500">\${repo.full_name}</a>
                   </div>
                   <p class="text-gray-700 text-base">\${truncatedDescription}</p>
-                </div>
-                <div class="px-6 pt-4 pb-2">
-                  \${repo.topics.map(topic => \`<span class="topic inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#\${topic}</span>\`).join('')}
                 </div>
                 <div class="px-6 pt-4 pb-2">
                   <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: \${repo.stargazers_count}</span>
