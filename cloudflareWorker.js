@@ -197,14 +197,14 @@ function generateHTML(data) {
 
           searchInput.addEventListener('input', function() {
             const query = this.value.trim();
-              console.log('User input query: ${query}'); // 日志输入的查询
+              console.log('User input query: '+query); // 日志输入的查询
             if (query) {
               const matchedRepos = searchRepositories(query);
-                  console.log('Matched repositories:', matchedRepos); // 日志匹配到的仓库
+                  console.log('Matched repositories:'+ matchedRepos); // 日志匹配到的仓库
               const highlightedHtml = repoCardsHtml(matchedRepos).replace(new RegExp(query, 'gi'), function(match) {
                 return '<span class="highlight">' + match + '</span>';
               });
- console.log('Highlighted HTML: ${highlightedHtml}'); // 日志高亮显示的 HTML
+ console.log('Highlighted HTML: '+highlightedHtml); // 日志高亮显示的 HTML
               categoriesContainer.innerHTML = '<div class="mb-8"><h2 class="text-2xl font-bold mb-4">Search Results</h2><div class="flex flex-wrap justify-center">' + highlightedHtml + '</div></div>';
             } else {
               // 重新定义 categoriesHtml 以确保在事件监听器内可用
