@@ -111,7 +111,7 @@ function generateHTML(data) {
         }
         .inline-block {
           position: absolute;
-          bottom: 15;
+          bottom: 0;
           margin-bottom: 15px;
         }
         
