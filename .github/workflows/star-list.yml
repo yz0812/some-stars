@@ -32,4 +32,4 @@ jobs:
           CLOUDFLARE_API_TOKEN : ${{ secrets.CLOUDFLARE_API_TOKEN  }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run:
-          wrangler publish
+          wrangler publish cloudflareWorker.js
