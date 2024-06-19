@@ -4,3 +4,9 @@ type = "javascript"
 account_id = "${CLOUDFLARE_API_TOKEN}"
 workers_dev = true
 compatibility_date = "2024-06-17"
+
+[build]
+upload.format = "service-worker"
+
+[build.upload]
+main = "cloudflareWorker.js"
