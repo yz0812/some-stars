@@ -26,6 +26,12 @@ jobs:
 
       - name: Install Wrangler CLI
         run: npm install -g wrangler
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./  # 发布根目录内容
     
       - name: Publish to Cloudflare Workers
         env:
