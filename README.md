@@ -11,7 +11,6 @@
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [HTML](#html)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
@@ -27,6 +26,7 @@
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
+*   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
 *   [PHP](#php)
@@ -36,6 +36,8 @@
 *   [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
@@ -124,14 +126,6 @@
 ## Jupyter Notebook
 
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-## HTML
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [pengpan/idcard](https://github.com/pengpan/idcard) - 中国大陆内地姓名、身份证号、银行卡号生成器（随机虚构生成），身份证号大全
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
 ## C++
 
@@ -450,6 +444,12 @@
 ## AutoIt
 
 *   [maxkingmax/OnekeyUnlock163music](https://github.com/maxkingmax/OnekeyUnlock163music) - Win10系统下一键部署nondanee 的“解锁网易云音乐客户端变灰歌曲”
+
+## HTML
+
+*   [pengpan/idcard](https://github.com/pengpan/idcard) - 中国大陆内地姓名、身份证号、银行卡号生成器（随机虚构生成），身份证号大全
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
 ## Objective-C
 
