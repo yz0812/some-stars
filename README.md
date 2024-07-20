@@ -11,7 +11,6 @@
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -26,6 +25,7 @@
 *   [Dart](#dart)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
+*   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
@@ -111,14 +111,6 @@
 *   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [pengpan/idcard](https://github.com/pengpan/idcard) - 中国大陆内地姓名、身份证号、银行卡号生成器（随机虚构生成），身份证号大全
-
-## Shell
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render\Koyeb
-
-*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
-
-*   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - homebrew安装使用中科大镜像
 
 ## JavaScript
 
@@ -378,6 +370,8 @@
 
 *   [sixj0/netty-push](https://github.com/sixj0/netty-push) - Netty实现消息推送，心跳检测，Redis发布订阅 解决Netty集群channel不共享的问题
 
+*   [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) - A javaagent framework
+
 ## C\#
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
@@ -447,6 +441,12 @@
 *   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 
 *   [hsz/intellij-foldable-project-view](https://github.com/hsz/intellij-foldable-project-view) - Plugin for IntelliJ-based IDEs folding root files in the ProjectView
+
+## Shell
+
+*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+
+*   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - homebrew安装使用中科大镜像
 
 ## AutoIt
 
