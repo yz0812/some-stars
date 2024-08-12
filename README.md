@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Batchfile](#batchfile)
@@ -28,7 +29,16 @@
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
-*   [CSS](#css)
+
+## CSS
+
+*   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
+
+*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+*   [xiaoai7904/gridea-theme-vant-white](https://github.com/xiaoai7904/gridea-theme-vant-white) - Gridea-Theme-Vant-white
 
 ## HTML
 
@@ -370,8 +380,6 @@
 
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
-*   [sixj0/netty-push](https://github.com/sixj0/netty-push) - Netty实现消息推送，心跳检测，Redis发布订阅 解决Netty集群channel不共享的问题
-
 ## C\#
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
@@ -463,11 +471,3 @@
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 
 *   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-
-## CSS
-
-*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-
-*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-
-*   [xiaoai7904/gridea-theme-vant-white](https://github.com/xiaoai7904/gridea-theme-vant-white) - Gridea-Theme-Vant-white
