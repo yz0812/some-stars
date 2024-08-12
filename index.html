@@ -13,11 +13,9 @@
       padding-left: 20px;
       padding-right: 20px;
       overflow-x: hidden;
-    }
-    .repo-card {
-      flex-basis: calc(25% - 1rem);
-      min-width: 300px;
-      max-width: 350px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
     }
     #sidebar {
       position: fixed;
@@ -25,41 +23,49 @@
       left: 20px;
       bottom: 0;
       overflow-y: auto;
-      width: 200px;
+      width: 220px;
+      padding-right: 20px;
+    }
+    #main-content {
+      margin-left: 240px;
+      flex-grow: 1;
+      padding-left: 20px;
     }
     @media (max-width: 1024px) {
-      .repo-card {
-        flex-basis: calc(50% - 1rem);
+      #sidebar {
+        position: relative;
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      #main-content {
+        margin-left: 0;
+        padding-left: 0;
       }
     }
     @media (max-width: 640px) {
-      .repo-card {
-        flex-basis: calc(100% - 1rem);
-      }
-      .container{
-        padding: 0;
+      #sidebar {
+        display: none;
       }
       #main-content {
         margin-left: 0 !important;
         padding-left: 8px;
       }
-      #categories-container{
-        padding-top:76px;
-      }
-      .sticky-header h1 {
-        display: none;
-      }
-      #search {
-        width: 100%;
-      }
+    }
+    #sidebar-links li {
+      margin-bottom: 12px;
+    }
+    #sidebar-links li a {
+      display: block;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: #e2e8f0;
+      transition: background-color 0.3s;
+    }
+    #sidebar-links li a:hover {
+      background-color: #cbd5e0;
     }
     .highlight {
       background-color: yellow;
-    }
-    .inline-block {
-      position: absolute;
-      bottom: 0;
-      margin-bottom: 15px;
     }
     .sticky-header {
       position: fixed;
@@ -68,9 +74,6 @@
       right: 0;
       z-index: 10;
       background-color: white;
-    }
-    #main-content {
-      margin-left: 200px;
     }
     #back-to-top {
       position: fixed;
@@ -88,6 +91,32 @@
     #back-to-top:hover {
       background-color: #2d3748;
     }
+	  
+	  .repo-card {
+		width: 300px; /* 固定宽度 */
+		height: 400px; /* 固定高度 */
+		overflow: hidden; /* 隐藏超出的内容 */
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	  }
+	  
+	  .repo-card img {
+		height: 150px; /* 固定图片高度 */
+		width: 100%; /* 图片宽度设置为100% */
+		object-fit: contain; /* 使图片等比例缩放并保持完整 */
+	  }
+	  
+	  .repo-card .description {
+		flex-grow: 1; /* 使描述部分占据剩余空间 */
+		overflow-y: hidden; /* 隐藏多余文本 */
+	  }
+	  
+	  .repo-card .truncated-description {
+		max-height: 80px; /* 限制描述部分的最大高度 */
+		overflow: hidden; /* 隐藏溢出的文本 */
+	  }
+  }
   </style>
 </head>
 <body class="bg-gray-100">
@@ -98,14 +127,12 @@
     <input id="search" type="text" placeholder="Search repositories..." class="p-2 border rounded md:w-1/3 w-full mx-auto">
   </div>
   <div class="container mx-auto p-4 py-16">
-    <div class="block md:flex">
-      <div id="sidebar" class="hidden md:block">
-        <h2 class="text-xl font-bold mb-4">语言分类</h2>
-        <ul id="sidebar-links"></ul>
-      </div>
-      <div id="main-content">
-        <div id="categories-container"></div>
-      </div>
+    <div id="sidebar">
+      <h2 class="text-xl font-bold mb-4">语言分类</h2>
+      <ul id="sidebar-links"></ul>
+    </div>
+    <div id="main-content">
+      <div id="categories-container"></div>
     </div>
   </div>
   <button id="back-to-top">↑</button>
