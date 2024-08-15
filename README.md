@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [CSS](#css)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
@@ -21,7 +22,6 @@
 *   [Swift](#swift)
 *   [C](#c-1)
 *   [Rust](#rust)
-*   [Java](#java)
 *   [C#](#c-2)
 *   [Dart](#dart)
 *   [Go](#go)
@@ -29,6 +29,38 @@
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## Java
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [chisaato/de-ag](https://github.com/chisaato/de-ag) - 用来对dbeaver做羞羞的事情
+
+*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
+
+*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
+
+*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+
+*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
+
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+
+*   [ZhangYuanSheng1217/RestfulTool](https://github.com/ZhangYuanSheng1217/RestfulTool) - 一套 Restful 服务开发辅助工具集
+
+*   [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
 ## CSS
 
@@ -350,36 +382,6 @@
 
 *   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
-## Java
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-
-*   [chisaato/de-ag](https://github.com/chisaato/de-ag) - 用来对dbeaver做羞羞的事情
-
-*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
-
-*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
-
-*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
-
-*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-
-*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-
-*   [ZhangYuanSheng1217/RestfulTool](https://github.com/ZhangYuanSheng1217/RestfulTool) - 一套 Restful 服务开发辅助工具集
-
-*   [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
-
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
 ## C\#
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
@@ -435,8 +437,6 @@
 *   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 ## Kotlin
 
