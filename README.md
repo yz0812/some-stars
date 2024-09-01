@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -15,7 +16,6 @@
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Batchfile](#batchfile)
-*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
@@ -29,6 +29,40 @@
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## Python
+
+*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
+
+*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+
+*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
+
+*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
+
+*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
+
+*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+
+*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ## C\#
 
@@ -255,40 +289,6 @@
 *   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## Python
-
-*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-
-*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
-
-*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
-
-*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
-
-*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
-
-*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-
-*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
 
 ## Jupyter Notebook
 
