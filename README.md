@@ -20,6 +20,7 @@
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
+*   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [C](#c-2)
 *   [Rust](#rust)
@@ -222,8 +223,6 @@
 
 *   [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
-
 *   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
@@ -363,6 +362,10 @@
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 *   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+
+## Svelte
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Swift
 
