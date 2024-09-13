@@ -8,9 +8,11 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Lua](#lua)
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -20,7 +22,6 @@
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c-1)
-*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
@@ -31,39 +32,9 @@
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
 
-## Go
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-
-*   [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
-
-*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-
-*   [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号
-
-*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-## Rust
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
 ## Python
+
+*   [gshang2017/rime-dict](https://github.com/gshang2017/rime-dict) - RIME输入法(拼音)自用词库(包含英语，基础，维基，搜狗等词库)，词频基于腾讯AI向量词库逆序生成。
 
 *   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 
@@ -102,6 +73,78 @@
 *   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+## Lua
+
+*   [Iorest/rime-setting](https://github.com/Iorest/rime-setting) - rime 输入法配置
+
+## miscellaneous
+
+*   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
+
+*   [zhumeng11/IPTV](https://github.com/zhumeng11/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
+
+*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+
+*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
+
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [LemonIT66/idea\_activate](https://github.com/LemonIT66/idea_activate) - JetBrains全家桶激活  idea激活 Activator  idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram Language Shopware Hybris Integration Material Theme UI JetForcer | The Smartest Force.com IDE AEM IDE React Native Console ANSI Highlighter Premium AEM Support SystemVerilog CodeMR JavaDoc Clean Read AutoCode for Java Database Tools and SQL for WebStorm Extra Icons Java Antidecompiler Scipio ERP Integration ZenUML support JFormDesigner (Marketplace Edition) OrchidE - Ansible Language Support Iedis 2 CMake Plus OpenAPI Editor Iceberg Atom One Dark By Mayke Generate Document OfficeFloor Android WiFiADB Laravel Idea Odoo Bitbucket Pull Requests Merge Request Integration EE - Code Review for GitLab Salesforce B2C Commerce (SFCC) MinBatis POJO to JSON Schema RDF and SPARQL BashSupport Pro MyBatis Log Cypress Support Pro Smart Jump Auto Java Code Suggestions Auto GOLang Code Suggestions Auto Ruby Code Suggestions Commit Template Auto Javascript Code Suggestions Auto PHP Code Suggestions SystemVerilog Studio SPARQL Toolset QML Editor Stryker Elasticsearch VisualGC Auto Python Code Suggestions Flutter Storm AWS Lambda Deployer PlantUML Studio Code With Me Premium JPA Buddy Firebase Rules Syntax Highlighter JPA SQL Execution God Recorder Ledger CLI Requirements Pro Regex Tool Android Package Helper Gitlab CI Circle CI Heroku Console Helper Redis Manager Zerocode Scenario Helper StormSections Sentry Integration Redis Find In Files (Configurations) Bitrise CI Qt Style Sheets Editor Database Helper Php Inspections (EA Ultimate) leetcode editor pro PHP Data Object Generator Material Theme UI High Contrast MQTT Client Notes Magnolia YAML Assistant Cap-Elasticsearch AStock Cap-Redis Maestro Simple Object Copy ElasticSearch-Admin Typed Django Template QueryFlag Nginx Configuration Pro Zookeeper-Admin API Runner NEON Nette Support Mybatis Smart Code Help Pro Code Refactor AI XSD Visualizer Spring Boot Machinet AI Unit Tests ExcelEditor Friendly Terminal WireMocha DynamoDB FastShell Jsonnet Templating Language Support PHP Houdini XSD to JSON Schema Quarkus Assistant codeCreator CIclone Database Tool Karate Material Theme UI Extras Material Theme UI Custom Theme Material Theme UI Language Additions Material Theme UI Project Frame Rancher Redis Client ScreenCodePro CodeKits Redis Operator Restful Fast Request MyBatisCodeHelperPro (Marketplace Edition) Redis
+
+*   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
+
+*   [shuhongfan/TyporaCrack](https://github.com/shuhongfan/TyporaCrack) - Typora V1.6.7 Typora Crack  Typora破解 Typora 激活 Typora activation MD Markdown editor 激活
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+
+*   [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
+
+*   [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
+
+## Go
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+
+*   [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
+
+*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号
+
+*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+## Rust
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
 ## C\#
 
@@ -218,8 +261,6 @@
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 *   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-
-*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
 ## CSS
 
@@ -347,40 +388,6 @@
 
 *   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
-## miscellaneous
-
-*   [zhumeng11/IPTV](https://github.com/zhumeng11/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
-
-*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
-
-*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
-
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
-
-*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [LemonIT66/idea\_activate](https://github.com/LemonIT66/idea_activate) - JetBrains全家桶激活  idea激活 Activator  idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram Language Shopware Hybris Integration Material Theme UI JetForcer | The Smartest Force.com IDE AEM IDE React Native Console ANSI Highlighter Premium AEM Support SystemVerilog CodeMR JavaDoc Clean Read AutoCode for Java Database Tools and SQL for WebStorm Extra Icons Java Antidecompiler Scipio ERP Integration ZenUML support JFormDesigner (Marketplace Edition) OrchidE - Ansible Language Support Iedis 2 CMake Plus OpenAPI Editor Iceberg Atom One Dark By Mayke Generate Document OfficeFloor Android WiFiADB Laravel Idea Odoo Bitbucket Pull Requests Merge Request Integration EE - Code Review for GitLab Salesforce B2C Commerce (SFCC) MinBatis POJO to JSON Schema RDF and SPARQL BashSupport Pro MyBatis Log Cypress Support Pro Smart Jump Auto Java Code Suggestions Auto GOLang Code Suggestions Auto Ruby Code Suggestions Commit Template Auto Javascript Code Suggestions Auto PHP Code Suggestions SystemVerilog Studio SPARQL Toolset QML Editor Stryker Elasticsearch VisualGC Auto Python Code Suggestions Flutter Storm AWS Lambda Deployer PlantUML Studio Code With Me Premium JPA Buddy Firebase Rules Syntax Highlighter JPA SQL Execution God Recorder Ledger CLI Requirements Pro Regex Tool Android Package Helper Gitlab CI Circle CI Heroku Console Helper Redis Manager Zerocode Scenario Helper StormSections Sentry Integration Redis Find In Files (Configurations) Bitrise CI Qt Style Sheets Editor Database Helper Php Inspections (EA Ultimate) leetcode editor pro PHP Data Object Generator Material Theme UI High Contrast MQTT Client Notes Magnolia YAML Assistant Cap-Elasticsearch AStock Cap-Redis Maestro Simple Object Copy ElasticSearch-Admin Typed Django Template QueryFlag Nginx Configuration Pro Zookeeper-Admin API Runner NEON Nette Support Mybatis Smart Code Help Pro Code Refactor AI XSD Visualizer Spring Boot Machinet AI Unit Tests ExcelEditor Friendly Terminal WireMocha DynamoDB FastShell Jsonnet Templating Language Support PHP Houdini XSD to JSON Schema Quarkus Assistant codeCreator CIclone Database Tool Karate Material Theme UI Extras Material Theme UI Custom Theme Material Theme UI Language Additions Material Theme UI Project Frame Rancher Redis Client ScreenCodePro CodeKits Redis Operator Restful Fast Request MyBatisCodeHelperPro (Marketplace Edition) Redis
-
-*   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-
-*   [shuhongfan/TyporaCrack](https://github.com/shuhongfan/TyporaCrack) - Typora V1.6.7 Typora Crack  Typora破解 Typora 激活 Typora activation MD Markdown editor 激活
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
-*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
-
-*   [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
-
-*   [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
-
 ## Vue
 
 *   [ShawnLeo/form-design](https://github.com/ShawnLeo/form-design) - 基于Vue + iView + Vux开发的表单设计器
@@ -414,10 +421,6 @@
 *   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 
 *   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-
-*   [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 
 ## C
 
