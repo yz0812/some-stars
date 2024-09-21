@@ -34,6 +34,8 @@
 
 ## Python
 
+*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
+
 *   [gshang2017/rime-dict](https://github.com/gshang2017/rime-dict) - RIME输入法(拼音)自用词库(包含英语，基础，维基，搜狗等词库)，词频基于腾讯AI向量词库逆序生成。
 
 *   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
@@ -260,8 +262,6 @@
 
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
-*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-
 ## CSS
 
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
@@ -460,7 +460,7 @@
 
 ## Shell
 
-*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
 *   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - homebrew安装使用中科大镜像
 
