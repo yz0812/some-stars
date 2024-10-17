@@ -270,7 +270,7 @@ const html = `
         }
 
         function escapeRegExp(string) {
-          return string.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\\\$&");
+          return string.replace(/[$()*+?.^{}|[\]\\]/g, '\\$&');
         }
 
         function highlightText(text, query) {
