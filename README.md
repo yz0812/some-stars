@@ -37,7 +37,7 @@
 
 *   [xifan2333/override-gui](https://github.com/xifan2333/override-gui) -
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 
 *   [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 
