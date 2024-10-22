@@ -237,8 +237,6 @@
 
 *   [shuhongfan/TyporaCrack](https://github.com/shuhongfan/TyporaCrack) - Typora V1.6.7 Typora Crack  Typora破解 Typora 激活 Typora activation MD Markdown editor 激活
 
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
 *   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
 
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
@@ -460,6 +458,8 @@
 ## Shell
 
 *   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
 *   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - homebrew安装使用中科大镜像
 
