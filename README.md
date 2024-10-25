@@ -441,7 +441,7 @@
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
-*   [wanghongenpin/network\_proxy\_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
 ## Kotlin
 
