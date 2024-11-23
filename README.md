@@ -127,7 +127,7 @@
 
 ## C
 
-*   [mmozeiko/wcap](https://github.com/mmozeiko/wcap) - Simple and efficient screen recording utility for Windows 10 and 11
+*   [mmozeiko/wcap](https://github.com/mmozeiko/wcap) - Small and efficient screen recording utility for Windows 10 and 11
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
