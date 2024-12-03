@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -26,12 +27,31 @@
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
-*   [Swift](#swift)
 *   [Dart](#dart)
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [PowerShell](#powershell)
 *   [Objective-C](#objective-c)
+
+## Swift
+
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+
+*   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+
+*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 
 ## Kotlin
 
@@ -120,8 +140,6 @@
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
 *   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## Vue
 
@@ -277,7 +295,7 @@
 
 ## C++
 
-*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
+*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 
 *   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
@@ -428,24 +446,6 @@
 ## Svelte
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-## Swift
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-
-*   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 
 ## Dart
 
