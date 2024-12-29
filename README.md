@@ -461,7 +461,7 @@
 
 *   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
-*   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - homebrew安装使用中科大镜像
+*   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - 通过镜像快速安装homebrew
 
 ## AutoIt
 
