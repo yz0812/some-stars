@@ -43,7 +43,7 @@
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 
-*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 
 *   [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
 
@@ -211,7 +211,7 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [Arman19941113/rename-photos](https://github.com/Arman19941113/rename-photos) - 🚀 Bulk rename photos using EXIF data 使用 EXIF 数据批量重命名照片
+*   [Arman19941113/rename-photos](https://github.com/Arman19941113/rename-photos) - 🚀 使用 EXIF 数据批量重命名照片
 
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
