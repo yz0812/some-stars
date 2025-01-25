@@ -157,7 +157,7 @@
 
 *   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
-*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
+*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。官方文档：https://fluent.thinkstu.com
 
 *   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 
