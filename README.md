@@ -115,7 +115,7 @@
 
 ## Vue
 
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! Bewley on the App Store is not uploaded by us and we do not endorse it. (English | 简体中文 | 正體中文 | 廣東話)
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 
 *   [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 
