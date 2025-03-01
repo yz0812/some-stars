@@ -91,7 +91,7 @@
 
 ## HTML
 
-*   [tech-shrimp/grok-playground](https://github.com/tech-shrimp/grok-playground) - 10秒部署一个Grok3国内镜像网站，支持多账户聚合，单账户额度不够可秒换账号。
+*   [tech-shrimp/grok-playground](https://github.com/tech-shrimp/grok-playground) - 【技术爬爬虾】10秒部署一个Grok3国内镜像网站，支持多账户聚合，单账户额度不够可秒换账号。
 
 *   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 
