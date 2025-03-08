@@ -36,6 +36,8 @@
 
 ## HTML
 
+*   [LargeCupPanda/StockAnal\_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
+
 *   [sky22333/download](https://github.com/sky22333/download) - Docker镜像和文件下载器
 
 *   [tech-shrimp/grok-playground](https://github.com/tech-shrimp/grok-playground) - 【技术爬爬虾】10秒部署一个Grok3国内镜像网站，支持多账户聚合，单账户额度不够可秒换账号。
@@ -80,7 +82,7 @@
 
 ## Makefile
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-end high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ## Python
 
@@ -235,8 +237,6 @@
 *   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
 *   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
 ## TypeScript
 
