@@ -108,7 +108,7 @@
 
 *   [iwen-conf/dipt](https://github.com/iwen-conf/dipt) - docker\_image\_pull\_tar
 
-*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - 订阅转换合并，节点可用性，测速，重命名，导出为mihomo/clash订阅工具
+*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub For Best You
 
 *   [ymyuuu/HubP](https://github.com/ymyuuu/HubP) - 基于 Go 开发的超轻量级 Docker 镜像加速工具。旨在提升拉取效率，规避网络限制，伪装非 Docker 请求，有效拉低风控
 
