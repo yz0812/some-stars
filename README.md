@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [Python](#python)
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -33,25 +33,9 @@
 *   [PowerShell](#powershell)
 *   [Objective-C](#objective-c)
 
-## Vue
-
-*   [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
-
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-
-*   [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
-
-*   [ShawnLeo/form-design](https://github.com/ShawnLeo/form-design) - 基于Vue + iView + Vux开发的表单设计器
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
-
 ## Python
+
+*   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
 
 *   [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register) - Claude-auto-register
 
@@ -102,6 +86,24 @@
 *   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 
 *   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+## Vue
+
+*   [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
+
+*   [ShawnLeo/form-design](https://github.com/ShawnLeo/form-design) - 基于Vue + iView + Vux开发的表单设计器
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
 ## TypeScript
 
@@ -432,8 +434,6 @@
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 
 *   [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Kernel Extensions for macOS
-
-*   [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 
 ## CSS
 
