@@ -340,7 +340,7 @@
 
 ## Swift
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 
 *   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 
