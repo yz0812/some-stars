@@ -188,7 +188,7 @@
 
 *   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
-*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源量化分析
+*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
 
 *   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
 
