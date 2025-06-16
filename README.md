@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -16,7 +17,6 @@
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
@@ -33,6 +33,16 @@
 *   [Dart](#dart)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## Shell
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
 ## Vue
 
@@ -312,14 +322,6 @@
 
 *   [woolition/greasyforks](https://github.com/woolition/greasyforks) - Personal TamperMonkey Userscripts
 
-## Shell
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
 ## HTML
 
 *   [LargeCupPanda/StockAnal\_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
@@ -349,8 +351,6 @@
 *   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
 *   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 
 ## Kotlin
 
