@@ -270,8 +270,6 @@
 
 *   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 
-*   [shuhongfan/TyporaCrack](https://github.com/shuhongfan/TyporaCrack) - Typora V1.6.7 Typora Crack  Typora破解 Typora 激活 Typora activation MD Markdown editor 激活
-
 *   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
 
 ## JavaScript
@@ -351,6 +349,8 @@
 *   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
 *   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+
+*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 
 ## Kotlin
 
