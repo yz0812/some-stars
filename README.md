@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -20,7 +21,6 @@
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
-*   [Kotlin](#kotlin)
 *   [C](#c-1)
 *   [Java](#java)
 *   [Lua](#lua)
@@ -33,6 +33,22 @@
 *   [Dart](#dart)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## Kotlin
+
+*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
+*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+
+*   [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
+
+*   [hsz/intellij-foldable-project-view](https://github.com/hsz/intellij-foldable-project-view) - Plugin for IntelliJ-based IDEs folding root files in the ProjectView
 
 ## Shell
 
@@ -349,22 +365,6 @@
 *   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
 *   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
-
-## Kotlin
-
-*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-
-*   [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
-
-*   [hsz/intellij-foldable-project-view](https://github.com/hsz/intellij-foldable-project-view) - Plugin for IntelliJ-based IDEs folding root files in the ProjectView
 
 ## C
 
