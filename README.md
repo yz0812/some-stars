@@ -36,6 +36,8 @@
 
 ## TypeScript
 
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
+
 *   [jiweiyeah/gemini-cli-chinese](https://github.com/jiweiyeah/gemini-cli-chinese) - 一个中文界面的 gemini-cli。 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -419,8 +421,6 @@
 *   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
 
 *   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 
 ## Lua
 
