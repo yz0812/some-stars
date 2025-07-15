@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [C++](#c)
@@ -17,7 +18,6 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [C#](#c-1)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Svelte](#svelte)
@@ -33,6 +33,38 @@
 *   [Dart](#dart)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## miscellaneous
+
+*   [Amo-Zeng/AITerminal](https://github.com/Amo-Zeng/AITerminal) - 终端+AI助手，支持一键查看远程文件
+
+*   [mappedbyte/cursor-device-rest](https://github.com/mappedbyte/cursor-device-rest) - 重置你的设备码，更新和设置token
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+
+*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
+
+*   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
+
+*   [zhumeng11/IPTV](https://github.com/zhumeng11/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
+
+*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+
+*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
+
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [LemonIT66/idea\_activate](https://github.com/LemonIT66/idea_activate) - JetBrains全家桶激活  idea激活 Activator  idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram Language Shopware Hybris Integration Material Theme UI JetForcer | The Smartest Force.com IDE AEM IDE React Native Console ANSI Highlighter Premium AEM Support SystemVerilog CodeMR JavaDoc Clean Read AutoCode for Java Database Tools and SQL for WebStorm Extra Icons Java Antidecompiler Scipio ERP Integration ZenUML support JFormDesigner (Marketplace Edition) OrchidE - Ansible Language Support Iedis 2 CMake Plus OpenAPI Editor Iceberg Atom One Dark By Mayke Generate Document OfficeFloor Android WiFiADB Laravel Idea Odoo Bitbucket Pull Requests Merge Request Integration EE - Code Review for GitLab Salesforce B2C Commerce (SFCC) MinBatis POJO to JSON Schema RDF and SPARQL BashSupport Pro MyBatis Log Cypress Support Pro Smart Jump Auto Java Code Suggestions Auto GOLang Code Suggestions Auto Ruby Code Suggestions Commit Template Auto Javascript Code Suggestions Auto PHP Code Suggestions SystemVerilog Studio SPARQL Toolset QML Editor Stryker Elasticsearch VisualGC Auto Python Code Suggestions Flutter Storm AWS Lambda Deployer PlantUML Studio Code With Me Premium JPA Buddy Firebase Rules Syntax Highlighter JPA SQL Execution God Recorder Ledger CLI Requirements Pro Regex Tool Android Package Helper Gitlab CI Circle CI Heroku Console Helper Redis Manager Zerocode Scenario Helper StormSections Sentry Integration Redis Find In Files (Configurations) Bitrise CI Qt Style Sheets Editor Database Helper Php Inspections (EA Ultimate) leetcode editor pro PHP Data Object Generator Material Theme UI High Contrast MQTT Client Notes Magnolia YAML Assistant Cap-Elasticsearch AStock Cap-Redis Maestro Simple Object Copy ElasticSearch-Admin Typed Django Template QueryFlag Nginx Configuration Pro Zookeeper-Admin API Runner NEON Nette Support Mybatis Smart Code Help Pro Code Refactor AI XSD Visualizer Spring Boot Machinet AI Unit Tests ExcelEditor Friendly Terminal WireMocha DynamoDB FastShell Jsonnet Templating Language Support PHP Houdini XSD to JSON Schema Quarkus Assistant codeCreator CIclone Database Tool Karate Material Theme UI Extras Material Theme UI Custom Theme Material Theme UI Language Additions Material Theme UI Project Frame Rancher Redis Client ScreenCodePro CodeKits Redis Operator Restful Fast Request MyBatisCodeHelperPro (Marketplace Edition) Redis
+
+*   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 
 ## TypeScript
 
@@ -277,38 +309,6 @@
 *   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 
 *   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-## miscellaneous
-
-*   [mappedbyte/cursor-device-rest](https://github.com/mappedbyte/cursor-device-rest) - 重置你的设备码，更新和设置token
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
-
-*   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-
-*   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
-
-*   [zhumeng11/IPTV](https://github.com/zhumeng11/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
-
-*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
-
-*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
-
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
-
-*   [Snipaste/feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste https://snipaste.com
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [LemonIT66/idea\_activate](https://github.com/LemonIT66/idea_activate) - JetBrains全家桶激活  idea激活 Activator  idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram Language Shopware Hybris Integration Material Theme UI JetForcer | The Smartest Force.com IDE AEM IDE React Native Console ANSI Highlighter Premium AEM Support SystemVerilog CodeMR JavaDoc Clean Read AutoCode for Java Database Tools and SQL for WebStorm Extra Icons Java Antidecompiler Scipio ERP Integration ZenUML support JFormDesigner (Marketplace Edition) OrchidE - Ansible Language Support Iedis 2 CMake Plus OpenAPI Editor Iceberg Atom One Dark By Mayke Generate Document OfficeFloor Android WiFiADB Laravel Idea Odoo Bitbucket Pull Requests Merge Request Integration EE - Code Review for GitLab Salesforce B2C Commerce (SFCC) MinBatis POJO to JSON Schema RDF and SPARQL BashSupport Pro MyBatis Log Cypress Support Pro Smart Jump Auto Java Code Suggestions Auto GOLang Code Suggestions Auto Ruby Code Suggestions Commit Template Auto Javascript Code Suggestions Auto PHP Code Suggestions SystemVerilog Studio SPARQL Toolset QML Editor Stryker Elasticsearch VisualGC Auto Python Code Suggestions Flutter Storm AWS Lambda Deployer PlantUML Studio Code With Me Premium JPA Buddy Firebase Rules Syntax Highlighter JPA SQL Execution God Recorder Ledger CLI Requirements Pro Regex Tool Android Package Helper Gitlab CI Circle CI Heroku Console Helper Redis Manager Zerocode Scenario Helper StormSections Sentry Integration Redis Find In Files (Configurations) Bitrise CI Qt Style Sheets Editor Database Helper Php Inspections (EA Ultimate) leetcode editor pro PHP Data Object Generator Material Theme UI High Contrast MQTT Client Notes Magnolia YAML Assistant Cap-Elasticsearch AStock Cap-Redis Maestro Simple Object Copy ElasticSearch-Admin Typed Django Template QueryFlag Nginx Configuration Pro Zookeeper-Admin API Runner NEON Nette Support Mybatis Smart Code Help Pro Code Refactor AI XSD Visualizer Spring Boot Machinet AI Unit Tests ExcelEditor Friendly Terminal WireMocha DynamoDB FastShell Jsonnet Templating Language Support PHP Houdini XSD to JSON Schema Quarkus Assistant codeCreator CIclone Database Tool Karate Material Theme UI Extras Material Theme UI Custom Theme Material Theme UI Language Additions Material Theme UI Project Frame Rancher Redis Client ScreenCodePro CodeKits Redis Operator Restful Fast Request MyBatisCodeHelperPro (Marketplace Edition) Redis
-
-*   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 
 ## JavaScript
 
