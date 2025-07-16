@@ -20,6 +20,7 @@
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
+*   [Makefile](#makefile)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [C](#c-2)
@@ -39,8 +40,6 @@
 *   [Amo-Zeng/AITerminal](https://github.com/Amo-Zeng/AITerminal) - 终端+AI助手，支持一键查看远程文件
 
 *   [mappedbyte/cursor-device-rest](https://github.com/mappedbyte/cursor-device-rest) - 重置你的设备码，更新和设置token
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
 
 *   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
 
@@ -371,6 +370,10 @@
 *   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [pengpan/idcard](https://github.com/pengpan/idcard) - 中国大陆内地姓名、身份证号、银行卡号生成器（随机虚构生成），身份证号大全
+
+## Makefile
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
 
 ## Svelte
 
