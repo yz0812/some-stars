@@ -154,8 +154,6 @@
 
 *   [WilliamWang1721/LLMs-Code](https://github.com/WilliamWang1721/LLMs-Code) - An Ai agent based on Gemini-CLI, which enables large models of different protocols to have the ability to use terminals
 
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
-
 *   [jiweiyeah/gemini-cli-chinese](https://github.com/jiweiyeah/gemini-cli-chinese) - 一个中文界面的 gemini-cli。 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -236,8 +234,6 @@
 
 *   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
-*   [LemonIT66/idea\_activate](https://github.com/LemonIT66/idea_activate) - JetBrains全家桶激活  idea激活 Activator  idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram Language Shopware Hybris Integration Material Theme UI JetForcer | The Smartest Force.com IDE AEM IDE React Native Console ANSI Highlighter Premium AEM Support SystemVerilog CodeMR JavaDoc Clean Read AutoCode for Java Database Tools and SQL for WebStorm Extra Icons Java Antidecompiler Scipio ERP Integration ZenUML support JFormDesigner (Marketplace Edition) OrchidE - Ansible Language Support Iedis 2 CMake Plus OpenAPI Editor Iceberg Atom One Dark By Mayke Generate Document OfficeFloor Android WiFiADB Laravel Idea Odoo Bitbucket Pull Requests Merge Request Integration EE - Code Review for GitLab Salesforce B2C Commerce (SFCC) MinBatis POJO to JSON Schema RDF and SPARQL BashSupport Pro MyBatis Log Cypress Support Pro Smart Jump Auto Java Code Suggestions Auto GOLang Code Suggestions Auto Ruby Code Suggestions Commit Template Auto Javascript Code Suggestions Auto PHP Code Suggestions SystemVerilog Studio SPARQL Toolset QML Editor Stryker Elasticsearch VisualGC Auto Python Code Suggestions Flutter Storm AWS Lambda Deployer PlantUML Studio Code With Me Premium JPA Buddy Firebase Rules Syntax Highlighter JPA SQL Execution God Recorder Ledger CLI Requirements Pro Regex Tool Android Package Helper Gitlab CI Circle CI Heroku Console Helper Redis Manager Zerocode Scenario Helper StormSections Sentry Integration Redis Find In Files (Configurations) Bitrise CI Qt Style Sheets Editor Database Helper Php Inspections (EA Ultimate) leetcode editor pro PHP Data Object Generator Material Theme UI High Contrast MQTT Client Notes Magnolia YAML Assistant Cap-Elasticsearch AStock Cap-Redis Maestro Simple Object Copy ElasticSearch-Admin Typed Django Template QueryFlag Nginx Configuration Pro Zookeeper-Admin API Runner NEON Nette Support Mybatis Smart Code Help Pro Code Refactor AI XSD Visualizer Spring Boot Machinet AI Unit Tests ExcelEditor Friendly Terminal WireMocha DynamoDB FastShell Jsonnet Templating Language Support PHP Houdini XSD to JSON Schema Quarkus Assistant codeCreator CIclone Database Tool Karate Material Theme UI Extras Material Theme UI Custom Theme Material Theme UI Language Additions Material Theme UI Project Frame Rancher Redis Client ScreenCodePro CodeKits Redis Operator Restful Fast Request MyBatisCodeHelperPro (Marketplace Edition) Redis
-
 *   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 
 ## Kotlin
@@ -316,6 +312,8 @@
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
 ## JavaScript
 
 *   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
@@ -363,6 +361,8 @@
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
 *   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [woolition/greasyforks](https://github.com/woolition/greasyforks) - Personal TamperMonkey Userscripts
 
 ## HTML
 
