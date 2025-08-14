@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [C++](#c)
@@ -18,7 +19,6 @@
 *   [Vue](#vue)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [C#](#c-1)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Swift](#swift)
@@ -33,6 +33,56 @@
 *   [Dart](#dart)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## JavaScript
+
+*   [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+
+*   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+
+*   [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
+
+*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
+
+*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+
+*   [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
+
+*   [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+
+*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
+
+*   [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+
+*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+
+*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
+
+*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
+
+*   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
 ## TypeScript
 
@@ -313,56 +363,6 @@
 *   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-## JavaScript
-
-*   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
-
-*   [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
-
-*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
-
-*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-*   [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
-
-*   [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
-
-*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
-
-*   [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
-
-*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
-
-*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
-
-*   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-
-*   [woolition/greasyforks](https://github.com/woolition/greasyforks) - Personal TamperMonkey Userscripts
 
 ## HTML
 
