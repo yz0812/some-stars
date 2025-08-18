@@ -36,6 +36,8 @@
 
 ## JavaScript
 
+*   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
+
 *   [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
 *   [deepshit2025/tuboshu](https://github.com/deepshit2025/tuboshu) - Transform Your Favorite Websites into Seamless Desktop Experiences✨!   把常用的网站集合到一个桌面程序里。
@@ -81,8 +83,6 @@
 *   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
 
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
 ## TypeScript
 
