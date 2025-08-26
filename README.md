@@ -119,7 +119,7 @@
 
 ## JavaScript
 
-*   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - 🔑 API Key 测活工具 - 批量检测 Gemini、Claude、GPT API 密钥有效性
+*   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini API 密钥有效性 | Modern API Key Tester - Batch validate OpenAI, Claude & Gemini API keys
 
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
 
