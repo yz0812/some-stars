@@ -32,8 +32,12 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
 *   [AutoIt](#autoit)
+*   [Objective-C](#objective-c)
+*   [PHP](#php)
 
 ## Rust
+
+*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 
 *   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
@@ -121,6 +125,44 @@
 
 *   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
+*   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
+
+*   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+
+*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+
+*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+
+*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [vbenjs/vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next) - vue-vben-admin-2.0 mini template.vue3,vite,typescript
+
+*   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
 ## Java
 
 *   [april-projects/april-varbook](https://github.com/april-projects/april-varbook) - April VarBook 是一个现代化的变量命名风格转换与常用命名生成工具，支持中英文智能翻译，适用于 Java、前端、Python、Shell 等多语言场景。前后端分离，界面美观，交互流畅，支持 Docker 一键部署。
@@ -140,6 +182,40 @@
 *   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
 
 *   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+
+*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
+
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+
+*   [Yuonsa/RestfulTool](https://github.com/Yuonsa/RestfulTool) - 一套 Restful 服务开发辅助工具集
+
+*   [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+
+*   [sixj0/netty-push](https://github.com/sixj0/netty-push) - Netty实现消息推送，心跳检测，Redis发布订阅 解决Netty集群channel不共享的问题
+
+*   [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
+
+*   [NekoChips/SpringDemo](https://github.com/NekoChips/SpringDemo) - SpringBoot & SpringCloud 使用 Demo
+
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
+
+*   [JoyLau/joylau-springboot-daemon-windows](https://github.com/JoyLau/joylau-springboot-daemon-windows) - 将SpringBoot应用制作为Windows Services服务 | make spring boot module to windows services
+
+*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
+
+*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 
 ## PowerShell
 
@@ -196,6 +272,36 @@
 *   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 
 *   [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [woolition/greasyforks](https://github.com/woolition/greasyforks) - Personal TamperMonkey Userscripts
+
+*   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+
+*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+
+*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
+
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
+
+*   [YGYOOO/ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - A chrome extension to modify the response of ajax requests. 修改ajax请求返回结果的chrome插件
+
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+
+*   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 
 ## Python
 
@@ -259,6 +365,12 @@
 
 *   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
+
 ## C++
 
 *   [Zhou-zhi-peng/NetDebugger](https://github.com/Zhou-zhi-peng/NetDebugger) - 轻量级网络协议调试工助手 , 支持串口调试 , 支持串口转发调试 , 支持TCP 客户端/服务端 调试 ,  支持UDP调试 , 支持Websocket调试 , 支持多国语言
@@ -280,6 +392,12 @@
 *   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+*   [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Kernel Extensions for macOS
+
+*   [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
 ## Go
 
@@ -309,6 +427,16 @@
 
 *   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号
+
+*   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+
 ## miscellaneous
 
 *   [Amo-Zeng/AITerminal](https://github.com/Amo-Zeng/AITerminal) - 终端+AI助手，支持一键查看远程文件
@@ -337,6 +465,18 @@
 
 *   [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 
+*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+
+*   [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
+
+*   [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+
 ## Kotlin
 
 *   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
@@ -351,6 +491,8 @@
 
 *   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 
+*   [hsz/intellij-foldable-project-view](https://github.com/hsz/intellij-foldable-project-view) - Plugin for IntelliJ-based IDEs folding root files in the ProjectView
+
 ## Shell
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
@@ -358,6 +500,10 @@
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 *   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [ineo6/homebrew-install](https://github.com/ineo6/homebrew-install) - 通过镜像快速安装homebrew
 
 ## Vue
 
@@ -374,6 +520,12 @@
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+
+*   [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design) - 本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## Visual Basic .NET
 
@@ -405,6 +557,18 @@
 
 *   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
 ## HTML
 
 *   [LargeCupPanda/StockAnal\_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
@@ -435,6 +599,22 @@
 
 *   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 
+*   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+
+*   [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
 ## C
 
 *   [mmozeiko/wcap](https://github.com/mmozeiko/wcap) - Small and efficient screen recording utility for Windows 10 and 11
@@ -449,6 +629,10 @@
 
 *   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 
+*   [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
 ## Lua
 
 *   [Iorest/rime-setting](https://github.com/Iorest/rime-setting) - rime 输入法配置
@@ -456,6 +640,12 @@
 ## CSS
 
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
+
+*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+*   [xiaoai7904/gridea-theme-vant-white](https://github.com/xiaoai7904/gridea-theme-vant-white) - Gridea-Theme-Vant-white
 
 ## Batchfile
 
@@ -480,3 +670,19 @@
 ## AutoIt
 
 *   [maxkingmax/OnekeyUnlock163music](https://github.com/maxkingmax/OnekeyUnlock163music) - Win10系统下一键部署nondanee 的“解锁网易云音乐客户端变灰歌曲”
+
+## Objective-C
+
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
+*   [haoke123/MacSerialTransporter](https://github.com/haoke123/MacSerialTransporter) - Hackintosh三码拷贝工具 所谓三码就是ROM，序列号，以及系统UUID这三者，用于提供身份令牌，令用户可以正常使用iMessage,facetime等服务。  通常用户不需要修改config文件，但是EFI整体替换或者Clover转OpenCore需要拷贝三码。但是一个不小心替换错了之前又没退出登陆，会造成无法退出甚至被封号的窘境。  于是本人写了个简单的小软件，可以方便的拷贝三码。支持Clover->Clover ,Clover->OpenCore,OpenCore->Clover,OpenCore->OpeCore;
+
+*   [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
+
+*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+
+## PHP
+
+*   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
