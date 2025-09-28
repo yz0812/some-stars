@@ -553,7 +553,7 @@
 
 *   [ShawnLeo/form-design](https://github.com/ShawnLeo/form-design) - 基于Vue + iView + Vux开发的表单设计器
 
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
