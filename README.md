@@ -255,6 +255,8 @@
 
 *   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 
+*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+
 ## PowerShell
 
 *   [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
@@ -265,7 +267,7 @@
 
 ## JavaScript
 
-*   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini API 密钥有效性 | Modern API Key Tester - Batch validate OpenAI, Claude & Gemini API keys
+*   [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
 
@@ -416,8 +418,6 @@
 *   [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
 
 *   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
 *   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
