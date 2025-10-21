@@ -8,15 +8,15 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [Python](#python)
 *   [HTML](#html)
-*   [C++](#c)
-*   [C#](#c-1)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
@@ -34,6 +34,118 @@
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
 *   [PHP](#php)
+
+## C\#
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
+
+*   [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
+
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+
+*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+## Python
+
+*   [iQuick/Flow.Launcher.KeepassX](https://github.com/iQuick/Flow.Launcher.KeepassX) - 一个查询 Keepass 密码的插件
+
+*   [AyasukaRan/M163DownList](https://github.com/AyasukaRan/M163DownList) - An application to download unlimited amount of music from Netease playlist.
+
+*   [xxxkjing/DownList](https://github.com/xxxkjing/DownList) - An application to download unlimited amount of music from Netease playlist.
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [iverycd/MysqlSlowLogAnalyze](https://github.com/iverycd/MysqlSlowLogAnalyze) - A TOOL CAN ANALYZE MYSQL SLOW LOG TO REPORT AND EXCEL
+
+*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
+
+*   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
+
+*   [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register) - Claude-auto-register
+
+*   [Bear-biscuit/Pikpak-Auto-Invitation](https://github.com/Bear-biscuit/Pikpak-Auto-Invitation) - pikpakinvite
+
+*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
+
+*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+
+*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
+
+*   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
+
+*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+
+*   [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+
+*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+
+*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
+
+*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+
+*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
+
+*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+
+*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
+
+*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
+
+*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
+
+*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+
+*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
 
 ## HTML
 
@@ -78,46 +190,6 @@
 *   [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 
 *   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-## C\#
-
-*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-
-*   [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
-
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
-*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
-
-*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## Rust
 
@@ -245,8 +317,6 @@
 
 *   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
 ## Java
 
 *   [april-projects/april-varbook](https://github.com/april-projects/april-varbook) - April VarBook 是一个现代化的变量命名风格转换与常用命名生成工具，支持中英文智能翻译，适用于 Java、前端、Python、Shell 等多语言场景。前后端分离，界面美观，交互流畅，支持 Docker 一键部署。
@@ -294,8 +364,6 @@
 *   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
 *   [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
-
-*   [JoyLau/joylau-springboot-daemon-windows](https://github.com/JoyLau/joylau-springboot-daemon-windows) - 将SpringBoot应用制作为Windows Services服务 | make spring boot module to windows services
 
 ## PowerShell
 
@@ -382,74 +450,6 @@
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
 *   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
-
-## Python
-
-*   [AyasukaRan/M163DownList](https://github.com/AyasukaRan/M163DownList) - An application to download unlimited amount of music from Netease playlist.
-
-*   [xxxkjing/DownList](https://github.com/xxxkjing/DownList) - An application to download unlimited amount of music from Netease playlist.
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [iverycd/MysqlSlowLogAnalyze](https://github.com/iverycd/MysqlSlowLogAnalyze) - A TOOL CAN ANALYZE MYSQL SLOW LOG TO REPORT AND EXCEL
-
-*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
-
-*   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
-
-*   [zqq-nuli/Claude-auto-register](https://github.com/zqq-nuli/Claude-auto-register) - Claude-auto-register
-
-*   [Bear-biscuit/Pikpak-Auto-Invitation](https://github.com/Bear-biscuit/Pikpak-Auto-Invitation) - pikpakinvite
-
-*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
-
-*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-
-*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
-
-*   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
-
-*   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-
-*   [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
-
-*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
-
-*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
-
-*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-
-*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
-
-*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-
-*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
-
-*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
-
-*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
-
-*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
-
-*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-
-*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
 
 ## Go
 
