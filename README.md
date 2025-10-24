@@ -597,6 +597,8 @@
 
 *   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
 *   [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 
 *   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -672,8 +674,6 @@
 *   [maxkingmax/OnekeyUnlock163music](https://github.com/maxkingmax/OnekeyUnlock163music) - Win10系统下一键部署nondanee 的“解锁网易云音乐客户端变灰歌曲”
 
 ## Objective-C
-
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
 *   [haoke123/MacSerialTransporter](https://github.com/haoke123/MacSerialTransporter) - Hackintosh三码拷贝工具 所谓三码就是ROM，序列号，以及系统UUID这三者，用于提供身份令牌，令用户可以正常使用iMessage,facetime等服务。  通常用户不需要修改config文件，但是EFI整体替换或者Clover转OpenCore需要拷贝三码。但是一个不小心替换错了之前又没退出登陆，会造成无法退出甚至被封号的窘境。  于是本人写了个简单的小软件，可以方便的拷贝三码。支持Clover->Clover ,Clover->OpenCore,OpenCore->Clover,OpenCore->OpeCore;
 
