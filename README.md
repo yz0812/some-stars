@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [C#](#c)
@@ -16,7 +17,6 @@
 *   [C++](#c-1)
 *   [Rust](#rust)
 *   [Java](#java)
-*   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -34,6 +34,14 @@
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
 *   [PHP](#php)
+
+## PowerShell
+
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+*   [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## Vue
 
@@ -56,8 +64,6 @@
 *   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
 *   [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design) - 本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## TypeScript
 
@@ -147,7 +153,7 @@
 
 *   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
@@ -386,12 +392,6 @@
 *   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
 *   [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
-
-## PowerShell
-
-*   [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
-*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## JavaScript
 
