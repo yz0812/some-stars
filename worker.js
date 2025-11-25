@@ -165,7 +165,7 @@ const html = `
     <button id="back-to-top">↑</button>
     <script>
       async function fetchData() {
-        const response = await fetch("/data.json");
+        const response = await fetch("https://raw.githubusercontent.com/yz0812/some-stars/main/data.json");
         return response.json();
       }
 
@@ -331,3 +331,4 @@ const html = `
 </html>
 
 `
+
