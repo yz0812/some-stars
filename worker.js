@@ -14,6 +14,8 @@ async function handleRequest(request) {
   })
 }
 
+
+
 async function fetchData() {
   const response = await fetch('https://raw.githubusercontent.com/yz0812/some-stars/main/data.json')
   return response
@@ -327,4 +329,5 @@ const html = `
     </script>
   </body>
 </html>
+
 `
