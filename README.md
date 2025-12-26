@@ -8,20 +8,20 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [C](#c)
-*   [Rust](#rust)
+*   [C](#c-1)
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [PowerShell](#powershell)
-*   [C#](#c-1)
 *   [HTML](#html)
 *   [C++](#c-2)
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -34,6 +34,50 @@
 *   [PHP](#php)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## C\#
+
+*   [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
+
+*   [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
+
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+
+*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## Go
 
@@ -84,6 +128,8 @@
 *   [eastxiaodong/ace-tool](https://github.com/eastxiaodong/ace-tool) -
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more — Enhanced Chat UI, WebUI, Multi-Agent & Multi-LLM, MCP Integration | 🌟 Star if you like it!
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 *   [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 
@@ -287,30 +333,6 @@
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
-## Rust
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-
-*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
-
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
-*   [Yoo1tic/Gemini-Keychecker](https://github.com/Yoo1tic/Gemini-Keychecker) - A high-performance tool to validate Google Gemini API keys with batch processing capabilities.
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
 ## Vue
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
@@ -469,48 +491,6 @@
 
 *   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
-## C\#
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-
-*   [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
-
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
-*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
-
-*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## HTML
 
 *   [uiuing/varbook](https://github.com/uiuing/varbook) - 适合中文程序员的变量命名助手，LLM+知识库，规范变量命名，定制化变量命名规则
@@ -554,6 +534,28 @@
 *   [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 
 *   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+## Rust
+
+*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
+
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+
+*   [Yoo1tic/Gemini-Keychecker](https://github.com/Yoo1tic/Gemini-Keychecker) - A high-performance tool to validate Google Gemini API keys with batch processing capabilities.
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## miscellaneous
 
@@ -684,5 +686,3 @@
 *   [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
-
-*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
