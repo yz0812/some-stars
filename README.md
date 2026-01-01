@@ -111,6 +111,8 @@
 
 *   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
 *   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
@@ -380,8 +382,6 @@
 *   [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty) - A modern client built with Flutter and Rust, powered by Mihomo
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 *   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
