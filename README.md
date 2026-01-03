@@ -93,8 +93,6 @@
 
 *   [iwen-conf/dipt](https://github.com/iwen-conf/dipt) - 一个使用 Go 编写的命令行工具，允许您在 无需安装 Docker 的情况下，拉取 Docker 镜像并将其保存为 .tar 文件。支持指定目标操作系统和架构，方便跨平台和离线环境部署。
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
-
 *   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 
 *   [ymyuuu/HubP](https://github.com/ymyuuu/HubP) - 基于 Go 开发的超轻量级 Docker 镜像加速工具。旨在提升拉取效率，规避网络限制，伪装非 Docker 请求，有效拉低风控
@@ -536,6 +534,8 @@
 *   [Zhou-zhi-peng/NetDebugger](https://github.com/Zhou-zhi-peng/NetDebugger) - 轻量级网络协议调试工助手 , 支持串口调试 , 支持串口转发调试 , 支持TCP 客户端/服务端 调试 ,  支持UDP调试 , 支持Websocket调试 , 支持多国语言
 
 *   [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 
 *   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 
