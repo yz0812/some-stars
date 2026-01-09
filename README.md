@@ -161,7 +161,7 @@
 
 *   [fxaxg/one-api-hub](https://github.com/fxaxg/one-api-hub) - One API Hub - 中转站管理器，一个开源的浏览器插件，聚合管理AI中转站账号的余额、模型和密钥，告别繁琐登录。
 
-*   [Sponge-Lu/API\_detect\_tools](https://github.com/Sponge-Lu/API_detect_tools) - 管理API公益站的桌面端，可签到可添加福利站
+*   [Sponge-Lu/API\_detect\_tools](https://github.com/Sponge-Lu/API_detect_tools) - 管理API公益站的桌面端，签到/福利站/LDC充值/一键应用Claude code、Codex、Gemini CLI
 
 *   [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) - a free WYSIWYG desktop markdown editor
 
