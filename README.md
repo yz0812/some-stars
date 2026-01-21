@@ -37,6 +37,10 @@
 
 ## TypeScript
 
+*   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Your Vibe Coding Toolkit A cross-platform desktop application for managing development tools, AI coding assistants, and dependencies
+
+*   [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) - 一个全能的 AI 聊天助手，深度集成 Gemini 生态。支持多模态交互（文本/语音/图片/视频）、实时联网搜索、代码执行、长文档分析及高级推理功能。内置丰富的预设场景与个性化配置，助您探索 AI 的无限可能。
+
 *   [chaogei/Kiro-account-manager](https://github.com/chaogei/Kiro-account-manager) -
 
 *   [GEMILUXVII/starflow](https://github.com/GEMILUXVII/starflow) - Self-hosted GitHub Stars manager with lists, search & notes | 可自托管的支持AI分类、搜索、笔记的 GitHub Stars 管理工具
@@ -148,8 +152,6 @@
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 ## Dart
 
@@ -476,8 +478,6 @@
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 *   [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
-
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 ## Java
 
