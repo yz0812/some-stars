@@ -261,7 +261,7 @@
 
 *   [ymyuuu/HubP](https://github.com/ymyuuu/HubP) - 基于 Go 开发的超轻量级 Docker 镜像加速工具。旨在提升拉取效率，规避网络限制，伪装非 Docker 请求，有效拉低风控
 
-*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
 *   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
