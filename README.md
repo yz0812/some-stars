@@ -575,8 +575,6 @@
 
 *   [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
 
-*   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
-
 *   [zhumeng11/IPTV](https://github.com/zhumeng11/IPTV) - 📺IPTV电视直播，IPv6源\[全网可用]，完善的台标，几近完美的EPG节目预告🎈\[强迫症福音]
 
 *   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
@@ -606,6 +604,8 @@
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+
+*   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
 
 *   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
