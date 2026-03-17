@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
@@ -19,7 +20,6 @@
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Java](#java)
-*   [PowerShell](#powershell)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
@@ -34,6 +34,14 @@
 *   [PHP](#php)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## PowerShell
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+*   [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## TypeScript
 
@@ -525,12 +533,6 @@
 
 *   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
 
-## PowerShell
-
-*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-
-*   [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
 ## Vue
 
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
@@ -684,5 +686,3 @@
 *   [haoke123/MacSerialTransporter](https://github.com/haoke123/MacSerialTransporter) - Hackintosh三码拷贝工具 所谓三码就是ROM，序列号，以及系统UUID这三者，用于提供身份令牌，令用户可以正常使用iMessage,facetime等服务。  通常用户不需要修改config文件，但是EFI整体替换或者Clover转OpenCore需要拷贝三码。但是一个不小心替换错了之前又没退出登陆，会造成无法退出甚至被封号的窘境。  于是本人写了个简单的小软件，可以方便的拷贝三码。支持Clover->Clover ,Clover->OpenCore,OpenCore->Clover,OpenCore->OpeCore;
 
 *   [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
-
-*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
