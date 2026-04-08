@@ -83,8 +83,6 @@
 
 *   [ushaio/mo-gallery-web](https://github.com/ushaio/mo-gallery-web) - 一个现代化的图片画廊应用，前后端集成，支持多种部署方式和存储后端。
 
-*   [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
-
 *   [Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose) - 一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
 
 *   [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) -
@@ -196,6 +194,8 @@
 *   [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
 
 *   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
+
+*   [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
