@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
@@ -35,117 +35,9 @@
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
 
-## Python
-
-*   [physical-superintelligence-lab/Psi0](https://github.com/physical-superintelligence-lab/Psi0) - Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoid Intelligence.
-
-*   [TullyMonster/exa-pool-mcp](https://github.com/TullyMonster/exa-pool-mcp) - A lightweight MCP server that encapsulates the Exa Pool API as a toolkit for AI assistants to call.
-
-*   [Kiowx/c\_cleaner\_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
-
-*   [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
-
-*   [Cedriccmh/cc-read-limit-hook](https://github.com/Cedriccmh/cc-read-limit-hook) - A hook that limit and guide how claude code read files.
-
-*   [iwen-conf/apifox-mcp](https://github.com/iwen-conf/apifox-mcp) - Apifox MCP 服务器 - 让 Claude 等 AI 助手通过自然语言管理你的 Apifox 项目，轻松创建、更新和审计 API 接口
-
-*   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
-
-*   [BiFangKNT/mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
-
-*   [iQuick/Flow.Launcher.KeepassX](https://github.com/iQuick/Flow.Launcher.KeepassX) - 一个查询 Keepass 密码的插件
-
-*   [AyasukaRan/M163DownList](https://github.com/AyasukaRan/M163DownList) - An application to download unlimited amount of music from Netease playlist.
-
-*   [xxxkjing/DownList](https://github.com/xxxkjing/DownList) - An application to download unlimited amount of music from Netease playlist.
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [iverycd/MysqlSlowLogAnalyze](https://github.com/iverycd/MysqlSlowLogAnalyze) - A TOOL CAN ANALYZE MYSQL SLOW LOG TO REPORT AND EXCEL
-
-*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
-
-*   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
-
-*   [Bear-biscuit/Pikpak-Auto-Invitation](https://github.com/Bear-biscuit/Pikpak-Auto-Invitation) - pikpakinvite
-
-*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
-
-*   [lc2panda/StockAnal\_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
-
-*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-
-*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
-
-*   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
-
-*   [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-
-*   [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
-
-*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
-
-*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
-
-*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-
-*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
-
-*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-
-*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-
-*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
-
-*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
-
-*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
-
-*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
-
-*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-
-*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-## Java
-
-*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
-
-*   [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) -
-
-*   [april-projects/april-varbook](https://github.com/april-projects/april-varbook) - April VarBook 是一个现代化的变量命名风格转换与常用命名生成工具，支持中英文智能翻译，适用于 Java、前端、Python、Shell 等多语言场景。前后端分离，界面美观，交互流畅，支持 Docker 一键部署。
-
-*   [lgp547/any-door](https://github.com/lgp547/any-door) -
-
-*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-
-*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
-
-*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
-
-*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
-
 ## TypeScript
+
+*   [dark-hxx/CLI-Manager](https://github.com/dark-hxx/CLI-Manager) - CLI-Manager: 用于集中管理基于 Windows PowerShell 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作流效率。
 
 *   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -266,6 +158,116 @@
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
+
+## Python
+
+*   [physical-superintelligence-lab/Psi0](https://github.com/physical-superintelligence-lab/Psi0) - Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoid Intelligence.
+
+*   [TullyMonster/exa-pool-mcp](https://github.com/TullyMonster/exa-pool-mcp) - A lightweight MCP server that encapsulates the Exa Pool API as a toolkit for AI assistants to call.
+
+*   [Kiowx/c\_cleaner\_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+
+*   [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+*   [Cedriccmh/cc-read-limit-hook](https://github.com/Cedriccmh/cc-read-limit-hook) - A hook that limit and guide how claude code read files.
+
+*   [iwen-conf/apifox-mcp](https://github.com/iwen-conf/apifox-mcp) - Apifox MCP 服务器 - 让 Claude 等 AI 助手通过自然语言管理你的 Apifox 项目，轻松创建、更新和审计 API 接口
+
+*   [numz/ComfyUI-SeedVR2\_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) - Official SeedVR2 Video Upscaler for ComfyUI
+
+*   [BiFangKNT/mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
+
+*   [iQuick/Flow.Launcher.KeepassX](https://github.com/iQuick/Flow.Launcher.KeepassX) - 一个查询 Keepass 密码的插件
+
+*   [AyasukaRan/M163DownList](https://github.com/AyasukaRan/M163DownList) - An application to download unlimited amount of music from Netease playlist.
+
+*   [xxxkjing/DownList](https://github.com/xxxkjing/DownList) - An application to download unlimited amount of music from Netease playlist.
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [iverycd/MysqlSlowLogAnalyze](https://github.com/iverycd/MysqlSlowLogAnalyze) - A TOOL CAN ANALYZE MYSQL SLOW LOG TO REPORT AND EXCEL
+
+*   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
+
+*   [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive) - 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
+
+*   [Bear-biscuit/Pikpak-Auto-Invitation](https://github.com/Bear-biscuit/Pikpak-Auto-Invitation) - pikpakinvite
+
+*   [ddCat-main/cursor-auto-register](https://github.com/ddCat-main/cursor-auto-register) - cursor-auto-register
+
+*   [lc2panda/StockAnal\_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
+
+*   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+
+*   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
+
+*   [Ogannesson/ashare-llm-analyst](https://github.com/Ogannesson/ashare-llm-analyst) - 基于Python的A股智能分析工具，结合大语言模型提供数据驱动的投资建议和市场洞察
+
+*   [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+
+*   [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+
+*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+
+*   [Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感
+
+*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+
+*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
+
+*   [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+*   [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+
+*   [soulteary/docker-codeformer](https://github.com/soulteary/docker-codeformer) - 快速体验 & 上手 CodeFormer，2G 显存可以玩。
+
+*   [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API
+
+*   [yunyuyuan/epic-free-push](https://github.com/yunyuyuan/epic-free-push) - Auto push epic free games with email
+
+*   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+
+*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+## Java
+
+*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
+
+*   [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) -
+
+*   [april-projects/april-varbook](https://github.com/april-projects/april-varbook) - April VarBook 是一个现代化的变量命名风格转换与常用命名生成工具，支持中英文智能翻译，适用于 Java、前端、Python、Shell 等多语言场景。前后端分离，界面美观，交互流畅，支持 Docker 一键部署。
+
+*   [lgp547/any-door](https://github.com/lgp547/any-door) -
+
+*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
+
+*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
+
+*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+
+*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+
+*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
 
 ## Rust
 
@@ -460,8 +462,6 @@
 *   [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Kernel Extensions for macOS
 
 *   [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
 ## C\#
 
