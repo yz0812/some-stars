@@ -297,7 +297,7 @@
 
 ## Java
 
-*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
+*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 
 *   [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) -
 
