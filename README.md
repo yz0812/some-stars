@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -15,7 +16,6 @@
 *   [C#](#c)
 *   [Python](#python)
 *   [Shell](#shell)
-*   [Java](#java)
 *   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [C++](#c-1)
@@ -34,6 +34,32 @@
 *   [PHP](#php)
 *   [AutoIt](#autoit)
 *   [Objective-C](#objective-c)
+
+## Java
+
+*   [uncarbon97/helio-boot-modular](https://github.com/uncarbon97/helio-boot-modular) - 基于 Spring Boot 3.x，是一款预置SaaS、RBAC能力的单体项目脚手架，适合初学者学习 JavaWeb 开发的良好实践；本项目已拆分多Maven模块，单模块版请移步至helio-boot项目
+
+*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
+
+*   [lgp547/any-door](https://github.com/lgp547/any-door) -
+
+*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
+
+*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
+
+*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+
+*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+
+*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
 
 ## TypeScript
 
@@ -447,30 +473,6 @@
 
 *   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
-## Java
-
-*   [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
-
-*   [lgp547/any-door](https://github.com/lgp547/any-door) -
-
-*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-
-*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
-
-*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-*   [starcwang/easy\_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
-
-*   [starxg/mybatis-log-plugin-free](https://github.com/starxg/mybatis-log-plugin-free) - Restore mybatis sql log to original whole executable sql.
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-*   [jshiell/checkstyle-idea](https://github.com/jshiell/checkstyle-idea) - CheckStyle plug-in for IntelliJ IDEA
-
 ## Dart
 
 *   [MeowLynxSea/easy\_todo](https://github.com/MeowLynxSea/easy_todo) - A simple and elegant todo list app with support for Pomodoro timer, recurring tasks, data statistics functions, plus with LLM integration.
@@ -586,8 +588,6 @@
 *   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
 
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 
 ## Visual Basic .NET
 
