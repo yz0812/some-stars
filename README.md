@@ -22,8 +22,8 @@
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
-*   [Visual Basic .NET](#visual-basic-net)
 *   [Vue](#vue)
+*   [Visual Basic .NET](#visual-basic-net)
 *   [Svelte](#svelte)
 *   [HTML](#html)
 *   [Swift](#swift)
@@ -100,8 +100,6 @@
 *   [jiweiyeah/gemini-cli-chinese](https://github.com/jiweiyeah/gemini-cli-chinese) - 一个中文界面的 gemini-cli。 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
@@ -591,11 +589,9 @@
 
 *   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
 
-## Visual Basic .NET
-
-*   [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-
 ## Vue
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 
 *   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 
@@ -608,6 +604,10 @@
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 
 *   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+
+## Visual Basic .NET
+
+*   [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 
 ## Svelte
 
